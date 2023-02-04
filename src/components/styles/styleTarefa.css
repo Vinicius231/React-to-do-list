@@ -1,0 +1,29 @@
+.tarefa {
+    background: white;
+    width: 650px;
+    height: 30px;
+    margin: auto;
+    text-align: start;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+    border: 3px solid black;
+    align-items: center;
+    margin-top: 20px;
+}
+.verificar {
+    width: 25px;
+}
+.deletar {
+    width: 20px;
+}
+span {
+    font: bolder 12pt Arial;
+}
+#concluido {
+    background: rgb(43, 255, 0);
+    border: 3px solid black;
+    text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.582);
+}

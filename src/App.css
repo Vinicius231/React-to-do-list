@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+}
+input {
+    border-radius: 9px;
+    width: 450px;
+    height: 20px;
+    font: bolder 14pt Arial;
+    padding: 5px;
+}
+button {
+    background: transparent;
+    border: none;
+    font-size: 20pt;
+    cursor: pointer;
+}
+.container-tarefas {
+    margin-top: 20px;
+}
